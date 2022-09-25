@@ -1,6 +1,6 @@
 # flutter_tic_tac_toe
 
-Tic-Tac-Toe : 🎃 A cross platform app that is built with Flutter
+Tic-Tac-Toe : A cross platform app that is built with Flutter
 
 The purpose of this project is to understand and implement the flutter concepts that i've learned to make the user interface look appealing besides having fun along the journey 😃.
 
